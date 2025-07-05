@@ -6,3 +6,6 @@ This repository contains the solution that achieved 3rd place in the IonQ Challe
 You can run each Python file to reproduce the results.
 
 https://qcenter.kr/sub/sub02_05.php?boardid=contest&mode=view&idx=10&sk=&sw=&offset=&category=
+
+## Method
+The detailed methodology and results for each problem-solving approach are presented in the report provided below.
